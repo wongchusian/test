@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!--
+  <remote fetch="git://gitorious.org/rowboat/" name="rowboat"/>
+  <default remote="rowboat" revision="rowboat-jb" sync-j="4"/>
+  -->
+	 <remote fetch="git@github.com:wongchusian/" name="beaglebone_andorid_4.2.2"/>
+	 <default revision="master" remote="beaglebone_andorid_4.2.2"  sync-j="4"/>
+      <project name="test" path="test" />
+</manifest>
